@@ -1,4 +1,4 @@
-module cp932unzip
+module github.com/moutend/cp932unzip
 
 go 1.13
 

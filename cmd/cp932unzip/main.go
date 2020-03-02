@@ -1,10 +1,11 @@
 package main
 
 import (
-	. "cp932unzip/internal/unzip"
 	"fmt"
 	"log"
 	"os"
+
+	. "github.com/moutend/cp932unzip/pkg/unzip"
 )
 
 func main() {
