@@ -6,7 +6,7 @@ Unzip the zip archive file which contains Shift-JIS character within the path.
 ## Install
 
 ```console
-go get -u github.com/moutend/cp932unzip
+go get -u github.com/moutend/cp932unzip/cmd/cp932unzip
 ```
 
 ## Usage
